@@ -1,0 +1,6 @@
+module Pods_ControlPanel_ControlPanelTests {
+  umbrella header "Pods-ControlPanel-ControlPanelTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

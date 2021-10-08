@@ -1,0 +1,6 @@
+module Pods_ControlPanel {
+  umbrella header "Pods-ControlPanel-umbrella.h"
+
+  export *
+  module * { export * }
+}
