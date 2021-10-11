@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/viktor/Documents/plc-control-panel/mobile/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/viktor/Desktop/plc-control-panel/mobile/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/Users/viktor/.gradle/caches/transforms-3/548e983e2fa4cfa186578c41faedaeae/transformed/jetified-react-native-0.66.0/res/values/values.xml",
@@ -59,20 +59,20 @@
                     }
                 },
                 {
-                    "source": "/Users/viktor/Documents/plc-control-panel/mobile/android/app/build/generated/res/resValues/debug/values/gradleResValues.xml",
+                    "source": "/Users/viktor/Desktop/plc-control-panel/mobile/android/app/src/main/res/values/strings.xml",
                     "from": {
-                        "startLines": "6,8",
-                        "startColumns": "4,4",
-                        "startOffsets": "156,262",
-                        "endColumns": "63,68",
-                        "endOffsets": "215,326"
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "49",
+                        "endOffsets": "61"
                     },
                     "to": {
-                        "startLines": "279,280",
-                        "startColumns": "4,4",
-                        "startOffsets": "17921,17985",
-                        "endColumns": "63,68",
-                        "endOffsets": "17980,18049"
+                        "startLines": "310",
+                        "startColumns": "4",
+                        "startOffsets": "20063",
+                        "endColumns": "49",
+                        "endOffsets": "20108"
                     }
                 },
                 {
@@ -148,24 +148,7 @@
                     }
                 },
                 {
-                    "source": "/Users/viktor/Documents/plc-control-panel/mobile/android/app/src/main/res/values/strings.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "49",
-                        "endOffsets": "61"
-                    },
-                    "to": {
-                        "startLines": "310",
-                        "startColumns": "4",
-                        "startOffsets": "20063",
-                        "endColumns": "49",
-                        "endOffsets": "20108"
-                    }
-                },
-                {
-                    "source": "/Users/viktor/Documents/plc-control-panel/mobile/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/viktor/Desktop/plc-control-panel/mobile/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3",
                         "startColumns": "4",
@@ -200,6 +183,23 @@
                         "endLines": "3029,3449",
                         "endColumns": "22,22",
                         "endOffsets": "191834,211938"
+                    }
+                },
+                {
+                    "source": "/Users/viktor/Desktop/plc-control-panel/mobile/android/app/build/generated/res/resValues/debug/values/gradleResValues.xml",
+                    "from": {
+                        "startLines": "6,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "156,262",
+                        "endColumns": "63,68",
+                        "endOffsets": "215,326"
+                    },
+                    "to": {
+                        "startLines": "279,280",
+                        "startColumns": "4,4",
+                        "startOffsets": "17921,17985",
+                        "endColumns": "63,68",
+                        "endOffsets": "17980,18049"
                     }
                 },
                 {
