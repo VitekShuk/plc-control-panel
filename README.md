@@ -3,6 +3,12 @@
   <h3>The project was created to test the <a href="https://github.com/Theokalo/react-native-modbus-tcp" target="_blank">react-native-modbus-tcp</a> library on a real device</h3>
 </div>
 
+### Requirements
+
+- Node.js v14.17.6
+- It is necessary to assign an ip address to the controller using the CoDeSys Software (for example 192.168.1.10)
+- Mobile phone and PLC must be in the same local network
+
 ## Installing
 
 1. Clone and install dependencies for mobile app
