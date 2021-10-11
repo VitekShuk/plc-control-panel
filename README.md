@@ -41,3 +41,7 @@ yarn ios
 - CoDeSys starts exactly like most Windows applications: Start-> Programs-> 3S Software -> CoDeSys V2.3 -> CoDeSys V2.3
 - Open an existing project, for this you need to use the command File -> Open folder
 - Getting started in the PLC_PRG editor window
+
+## Demo video
+
+https://user-images.githubusercontent.com/50635804/136776514-f4517285-3f57-4cc7-aa3a-9a2ac1ee3005.mp4
