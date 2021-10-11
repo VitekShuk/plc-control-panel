@@ -1,6 +1,6 @@
 <div align="center">
   <h1>PlcControlPanel</h1>
-  <h3>The project was created to test the <a href="https://github.com/Theokalo/react-native-modbus-tcp" target="_blank">react-native-modbus-tcp</a> library on a real device</h3>
+  <h3>The project was created to test the <a href="https://github.com/Theokalo/react-native-modbus-tcp" target="_blank">react-native-modbus-tcp</a> library on a real devices</h3>
 </div>
 
 ### Requirements
